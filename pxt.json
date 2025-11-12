@@ -1,5 +1,5 @@
 {
-    "name": "pxt-DFRobot2_HuskyLensV2",
+    "name": "pxt-DFRobot_HuskyLensV2",
     "description": "",
     "dependencies": {
         "core": "*",
