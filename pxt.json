@@ -16,6 +16,7 @@
         "_locales/zh-tw/huskylensV2-jsdoc-strings.json",
         "_locales/en/huskylensV2-strings.json",
         "_locales/en/huskylensV2-jsdoc-strings.json",
+        "huskylensV2-communication.ts",
         "huskylensV2.ts"
     ],
     "testFiles": [
